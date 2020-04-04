@@ -1,11 +1,11 @@
 {
-  "name": "gluon",
-  "url" : "https://github.com/haxiomic/gluon/",
+  "name": "hxTypedArray",
+  "url" : "https://github.com/DavisDevelopment/hx-typedarray/",
   "license": "MIT",
-  "tags": ["opengl", "webgl", "opengles"],
-  "description": "Unified OpenGL API for haxe targets",
+  "tags": ["cross", "typedarrays", "typed", "array", "bytes"],
+  "description": "Pure-Haxe TypedArray implementation designed for parity with JavaScript's TypedArray API",
   "version": "0.0.1",
-  "releasenote": "Initial OpenGL ES implementation",
-  "contributors": ["Haxiomic"],
+  "releasenote": "initial release",
+  "contributors": ["Haxiomic", "DavisDevelopment"],
   "dependencies": {}
 }
